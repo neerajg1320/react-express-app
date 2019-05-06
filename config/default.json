@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://neeraj76:neeraj76@devconnector-pdmtg.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "362593b0dfb90bfa5e6d",
+  "githubSecret": "fd70643ffafc856256d75235fc8cc97e3c645e8e"
 }
